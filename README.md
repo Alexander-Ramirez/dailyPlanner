@@ -6,7 +6,7 @@
 
 ## Installation
 You can use the link in order to have access to the daily planner and if you want to make changes to the code then you can clone the repo
-Link :https://alexander-ramirez.github.io/dailyPlanner/
+Link: https://alexander-ramirez.github.io/dailyPlanner/
 
 ## Screenshots
   <img width="960" alt="image" src="https://user-images.githubusercontent.com/93147019/151092797-f889b3c2-85b8-42d2-99e4-f8035639766a.png">
